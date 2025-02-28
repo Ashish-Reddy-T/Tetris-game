@@ -83,9 +83,9 @@ cd Tetris-game
 
 ## Screenshots
 
-![ScreenShot1](/Users/AshishR_T/Desktop/Timepass python projects/Python games/Tetris game/Pic1.png)
-![ScreenShot2](/Users/AshishR_T/Desktop/Timepass python projects/Python games/Tetris game/Pic2.png)
-![ScreenShot3](/Users/AshishR_T/Desktop/Timepass python projects/Python games/Tetris game/EndGame.png)
+<br><img src="https://github.com/Ashish-Reddy-T/Tetris-game/blob/879e4b5b680e3cd5286c4d21eae3a63312892561/Pic1.png" width="400"><br><br>
+<img src="https://github.com/Ashish-Reddy-T/Tetris-game/blob/879e4b5b680e3cd5286c4d21eae3a63312892561/Pic2.png" width="400"><br><br>
+<img src="https://github.com/Ashish-Reddy-T/Tetris-game/blob/879e4b5b680e3cd5286c4d21eae3a63312892561/EndGame.png" width="400"><br>
 
 ---
 
